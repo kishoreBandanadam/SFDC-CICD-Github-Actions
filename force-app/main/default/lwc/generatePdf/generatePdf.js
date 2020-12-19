@@ -1,7 +1,7 @@
 import { LightningElement } from 'lwc';
 
 export default class GeneratePdf extends LightningElement {
-
+    //actions to trigger
     students = [
         {name: "Kishore",
          email: "joy@example.com",
