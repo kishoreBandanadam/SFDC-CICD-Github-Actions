@@ -1,6 +1,8 @@
 import { LightningElement } from 'lwc';
 
 export default class GeneratePdf extends LightningElement {
+    
+    //added newly
 
     students = [
         {name: "Kishore",
